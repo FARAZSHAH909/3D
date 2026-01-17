@@ -1,0 +1,60 @@
+{
+    "objects": [
+        {
+            "file": "acacia_003.gem",
+            "pos": [
+                0.0,
+                -2.0,
+                0.0
+            ],
+            "scale": [
+                0.1,
+                0.1,
+                0.1
+            ],
+            "type": "static"
+        },
+        {
+            "file": "acacia_003.gem",
+            "pos": [
+                5.0,
+                0.0,
+                5.0
+            ],
+            "scale": [
+                0.012,
+                0.012,
+                0.012
+            ],
+            "type": "collectible"
+        },
+        {
+            "file": "acacia_003.gem",
+            "pos": [
+                -5.0,
+                2.0,
+                3.0
+            ],
+            "scale": [
+                0.008,
+                0.008,
+                0.008
+            ],
+            "type": "collectible"
+        },
+        {
+            "file": "acacia_003.gem",
+            "pos": [
+                0.0,
+                5.0,
+                10.0
+            ],
+            "scale": [
+                0.01,
+                0.01,
+                0.01
+            ],
+            "type": "collectible"
+        }
+    ]
+}
